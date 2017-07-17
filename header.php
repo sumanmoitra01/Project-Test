@@ -79,7 +79,7 @@ echo COOKIE_EXPIRE;*/
 
                 <ul>
 
-                  <li><img src="<?php echo Site_Url;?>images/phone_icon.png">+1.631.838.6087</li>
+                  <li><img src="<?php //echo Site_Url;?>images/phone_icon.png">+1.631.838.6087</li>
 
                   <li><img src="<?php echo Site_Url;?>images/mail_icon.png"><a href="mailto:info@crowdsynctechnology.com">info@crowdsynctechnology.com</a></li>
 
